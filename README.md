@@ -2,18 +2,18 @@
 
 # FDA-ONE
 
-Food Delivery Application is a mobile application that users can use to find the best restaurant around their location and order the meals they desire from the comfort of their home. One of the unique services of this product is that it targets only healthy restaurants so only high quality food with the healthiest benefits is offered to users at affordable cost. Do you want to loose weight or simply stay healthy? Let FitFood help you meet your weight loss goal and cut off that bad fat that increases your cholesterol level due to poor food choices. We offer only the best food choices.
+Food Delivery Application is a smartphone app that allows users to select the best restaurant in their area and order their favorite meals from the comfort of their own home. One of the product's distinctive features is that it only targets healthy restaurants, ensuring that users receive only high-quality cuisine with the healthiest advantages at an affordable price. Do you wish to lose weight or simply maintain your current health? Allow Foodly to assist you in achieving your weight reduction goal and reducing the harmful fat that raises your cholesterol due to poor meal choices. We only provide the greatest culinary options.
 
 
 # Requirements
 - iOS ~> 14.5
-- Xcode ~> 12 (9.3 compatible)
-- Swift ~> 4.2
+- Xcode ~> 12 (9.3 compatible) or latest Xcode
+- Swift ~> 4.2 or latest swift
 
 # Installation
 Clone the repository
 ```sh
-$ git clone https://github.com/decadevs/FDA-ONE.git
+$ git clone https://github.com/Master-K-88/FoodlyApp.git
 $ cd FDA-ONE
 $ cd Foodly
 $ pod install
